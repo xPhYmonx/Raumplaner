@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Stuhl()
+comment0.text=\r\n\ Erzeuge\ einen\ neuen\ Stuhl\ mit\ einer\ Standardfarbe\ und\ Standardgroesse\r\n\ an\ einer\ Standardposition.\ (Standardkonstruktor)\r\n
+comment1.params=
+comment1.target=java.awt.Shape\ gibAktuelleFigur()
+comment1.text=\r\n\ Berechnet\ das\ zu\ zeichnende\ Shape\ anhand\ der\ gegebenen\ Daten\r\n\ [\ Zum\ Anzeigen\ der\ Attributwerte\ \u00FCber\ Inspect\ muss\ hier\ die\ Sichtbarkeit\ \r\n\ \ auf\ public\ gesetzt\ werden.\ ]\r\n
+comment2.params=neuerWinkel
+comment2.target=void\ dreheAuf(int)
+comment2.text=\r\n\ Drehe\ auf\ den\ angegebenen\ Winkel\r\n
+comment3.params=entfernung
+comment3.target=void\ bewegeHorizontal(int)
+comment3.text=\r\n\ Bewege\ dieses\ Objekt\ horizontal\ um\ 'entfernung'\ Bildschirmpunkte.\r\n
+comment4.params=entfernung
+comment4.target=void\ bewegeVertikal(int)
+comment4.text=\r\n\ Bewege\ dieses\ objekt\ vertikal\ um\ 'entfernung'\ Bildschirmpunkte.\r\n
+comment5.params=neueFarbe
+comment5.target=void\ aendereFarbe(java.lang.String)
+comment5.text=\r\n\ Aendere\ die\ Farbe\ dieses\ Objektes\ in\ 'neueFarbe'.\r\n\ Gueltige\ Angaben\ sind\ "rot",\ "gelb",\ "blau",\ "gruen",\r\n\ "lila"\ und\ "schwarz".\r\n
+numComments=6

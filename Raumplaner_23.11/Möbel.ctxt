@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ verberge()
+comment0.text=\r\n\ Mache\ dieses\ Objekt\ unsichtbar.\ Wenn\ es\ bereits\ unsichtbar\ ist,\ tue\ nichts.\r\n
+comment1.params=shape
+comment1.target=void\ zeichne(java.awt.Shape)
+comment1.text=\r\n\ Zeichne\ dieses\ Objekt\ mit\ seinen\ aktuellen\ Werten\ auf\ den\ Bildschirm.\r\n
+comment2.params=
+comment2.target=void\ loesche()
+comment2.text=\r\n\ Loesche\ dieses\ Objekt\ vom\ Bildschirm.\r\n
+numComments=3
